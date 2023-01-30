@@ -1,0 +1,33 @@
+img{
+    width: 15%;
+    padding: 2%;
+}
+.navbar{
+    opacity: 0.5;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-image: url(img/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#search{
+    margin-left: 30%;
+    margin-top: 2%;
+    width: 20%;
+    opacity: 0.6;
+    border: none;
+    
+}
+h1{
+    font-size: 4em;
+    margin-left: 8%;
+    margin-top: 8%;
+    font-family: 'Indie Flower', cursive;
+    color:#857e40;
+
+}

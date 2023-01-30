@@ -1,0 +1,16 @@
+img{
+    width: 15%;
+    padding: 2%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-image: url(img/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    opacity: 0.5;
+}
