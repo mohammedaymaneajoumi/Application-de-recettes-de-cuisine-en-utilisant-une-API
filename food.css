@@ -14,3 +14,11 @@ body{
 .navbar{
     opacity: 0.5;
 }
+#filter {
+    width: 10%;
+}
+.container {
+    display: inline-flex;
+    flex-direction: column;
+    
+}
